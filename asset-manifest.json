@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ultimate-form/static/css/main.eb5a1001.chunk.css",
+    "main.js": "/react-ultimate-form/static/js/main.884b634c.chunk.js",
+    "main.js.map": "/react-ultimate-form/static/js/main.884b634c.chunk.js.map",
+    "runtime-main.js": "/react-ultimate-form/static/js/runtime-main.6286e004.js",
+    "runtime-main.js.map": "/react-ultimate-form/static/js/runtime-main.6286e004.js.map",
+    "static/js/2.7cf3a5b9.chunk.js": "/react-ultimate-form/static/js/2.7cf3a5b9.chunk.js",
+    "static/js/2.7cf3a5b9.chunk.js.map": "/react-ultimate-form/static/js/2.7cf3a5b9.chunk.js.map",
+    "index.html": "/react-ultimate-form/index.html",
+    "precache-manifest.93f6ed4921809b754d8ab56ac20cd5c2.js": "/react-ultimate-form/precache-manifest.93f6ed4921809b754d8ab56ac20cd5c2.js",
+    "service-worker.js": "/react-ultimate-form/service-worker.js",
+    "static/css/main.eb5a1001.chunk.css.map": "/react-ultimate-form/static/css/main.eb5a1001.chunk.css.map",
+    "static/js/2.7cf3a5b9.chunk.js.LICENSE.txt": "/react-ultimate-form/static/js/2.7cf3a5b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6286e004.js",
+    "static/js/2.7cf3a5b9.chunk.js",
+    "static/css/main.eb5a1001.chunk.css",
+    "static/js/main.884b634c.chunk.js"
+  ]
+}
